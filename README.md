@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá! Me chamo Gabriel Toscano 🖐️
+## Seja bem vinda(o) ao meu GitHub!
 
-<!--
-**GabrielToscanoML/GabrielToscanoML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que eu uso no meu dia
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <img align="center" alt="Html5" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
+  <img align="center" alt="Css" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
+  <img align="center" alt="JS" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+  <img align="center" alt="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
+  <img align="center" alt="Jest" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
+  <img align="center" alt="RTL" src="  https://www.google.com/url?sa=i&url=https%3A%2F%2Ftesting-library.com%2Fdocs%2Fqueries%2Fbyrole%2F&psig=AOvVaw3jwgkUooFYIkAwrB5OE8t9&ust=1671449478956000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOCRhNWIg_wCFQAAAAAdAAAAABAE" />
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gabriel Toscano GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielToscanoML&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
+
+Contato:
+[![Linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&psig=AOvVaw0iswqZhdN1opzPHcEV7F_0&ust=1671449910466000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjr4KKKg_wCFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/toscanobtw/)
+[![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AInstagram_icon.png&psig=AOvVaw0KBw9EF5ceEFyeUB8Wy8FA&ust=1671450032711000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjIid2Kg_wCFQAAAAAdAAAAABAE)](https://www.instagram.com/toscanobtw/)
