@@ -1,14 +1,15 @@
-## Olá! Me chamo Gabriel Toscano 🖐️
-## Seja bem vinda(o) ao meu GitHub!
+### Olá! Me chamo Gabriel Toscano 🖐️
+### Seja bem vinda(o) ao meu GitHub!
 
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
-  <img align="center" alt="Html5" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="80" height="60" />
-  <img align="center" alt="Css" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="80" height="60" />
-  <img align="center" alt="JS" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="80" height="60" />
-  <img align="center" alt="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="80" height="60" />
-  <img align="center" alt="Jest" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="80" height="60" />
+  <img align="center" alt="Html5" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/html-icon.png" width="80" height="60" />
+  <img align="center" alt="Css" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/css-icon.png" width="80" height="60" />
+  <img align="center" alt="BootsTrap" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/bootstrap-icon.png" width="80" height="60" />
+  <img align="center" alt="JS" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/js-icon.png" width="80" height="60" />
+  <img align="center" alt="React" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/react-icon.png" width="80" height="60" />
+  <img align="center" alt="Jest" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/jest-icon.png" width="80" height="60" />
   <img align="center" alt="RTL" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/Octpus.png" width="80" height="60" />
 </div><br/>
 
@@ -16,6 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
 
-Contato:
+## Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toscanobtw/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toscanobtw/)
