@@ -17,5 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
 
 Contato:
-[![Linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&psig=AOvVaw0iswqZhdN1opzPHcEV7F_0&ust=1671449910466000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjr4KKKg_wCFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/toscanobtw/)
-[![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AInstagram_icon.png&psig=AOvVaw0KBw9EF5ceEFyeUB8Wy8FA&ust=1671450032711000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjIid2Kg_wCFQAAAAAdAAAAABAE)](https://www.instagram.com/toscanobtw/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toscanobtw/)
+[![Instagram]((https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png))](https://www.instagram.com/toscanobtw/)
