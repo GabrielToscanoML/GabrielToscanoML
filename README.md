@@ -1,5 +1,5 @@
-## Olá! Me chamo Gabriel Toscano 🖐️
-## Seja bem vinda(o) ao meu GitHub!
+### Olá! Me chamo Gabriel Toscano 🖐️
+### Seja bem vinda(o) ao meu GitHub!
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,6 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
 
-Contato:
+## Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toscanobtw/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toscanobtw/)
