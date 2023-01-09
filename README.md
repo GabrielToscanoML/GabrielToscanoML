@@ -18,5 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toscanobtw/)
+<a href="https://www.linkedin.com/in/toscanobtw/" target="_blank">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toscanobtw/)</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toscanobtw/)
