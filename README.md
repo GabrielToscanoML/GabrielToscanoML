@@ -13,9 +13,9 @@
   <img align="center" alt="RTL" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/Octpus.png" width="80" height="60" />
 </div><br/>
 
-![Gabriel Toscano GitHub stats](https://github-readme-stats.vercel.app/api?user=GabrielToscanoML&show_icons=true&theme=dracula&count_private=true)
+![Gabriel Toscano GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielToscanoML&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielToscanoML)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toscanobtw/)
