@@ -5,13 +5,13 @@
 
 # Front-End
 <div style="display:inline_block">
-  <img align="center" alt="Html5" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/html-icon.png" width="80" height="60" />
-  <img align="center" alt="Css" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/css-icon.png" width="80" height="60" />
-  <img align="center" alt="BootsTrap" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/bootstrap-icon.png" width="80" height="60" />
-  <img align="center" alt="JS" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/js-icon.png" width="80" height="60" />
-  <img align="center" alt="React" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/react-icon.png" width="80" height="60" />
-  <img align="center" alt="Jest" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/jest-icon.png" width="80" height="60" />
-  <img align="center" alt="RTL" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/Octpus.png" width="80" height="60" />
+  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="150" height="50" />
+  <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  width="150" height="50" />
+  <!-- <img align="center" alt="BootsTrap" src="https://github.com/GabrielToscanoML/GabrielToscanoML/blob/main/bootstrap-icon.png"  width="150" height="50" /> -->
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  width="150" height="50" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" height="50" />
+  <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"  width="150" height="50" />
+  <img align="center" alt="RTL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"  width="150" height="50" />
 </div>
 
 # Back-End
@@ -21,7 +21,7 @@
   <img align="center" alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" width="150" height="50" />
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="150" height="50" />
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" width="150" height="50" />
-  <img align="center" alt="TypepScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="150" height="50" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="150" height="50" />
 </div>
 
 <br/>
